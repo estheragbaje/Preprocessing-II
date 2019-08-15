@@ -1,3 +1,19 @@
+p {
+  color: green;
+}
+.btn {
+  display: inline-block;
+  padding: 15px 60px;
+  border-radius: 10px;
+  font-size: 18px;
+  text-decoration: none;
+  background: #027575;
+  color: white;
+}
+.btn:hover,
+.btn:focus {
+  background: #03c0c0;
+}
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
